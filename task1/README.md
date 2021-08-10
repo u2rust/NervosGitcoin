@@ -4,7 +4,6 @@
 
 ![1.png](1.png)
 
-ckt account: ckt1qyqx2h4e2stnxfawgfr5ue9jw75y4gcksessxavcsv
 
 ## 2.A link to the Layer 1 address you funded on the Testnet Explorer.
 
